@@ -15,10 +15,7 @@ Somos apaixonados por tecnologia e estamos sempre em busca de aprender algo novo
 - 📧 gabriel.sanches@sp.senai.br
 - 📧 clayton.dtjunior@sp.senai.br
 
-## Contribuições
-![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=IST501&layout=compact)
-
 
 ## Agradecimentos
-Agradeço por visitar nosso perfil do GitHub. Fique à vontade para explorar nossos repositórios públicos e entrar em contato com um de nós se tiver alguma pergunta ou sugestão.
+Agradecemos por visitar nosso perfil do GitHub. Fique à vontade para explorar nossos repositórios públicos e entrar em contato conosco se tiver alguma pergunta ou sugestão.
 
