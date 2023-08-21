@@ -1,25 +1,18 @@
-# Olá, eu sou [Seu Nome]
+# Olá, bem vindo a página de projetos do SENAI 5.01
 
-## Sobre Mim
-Sou um apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Meu foco principal está em [suas principais áreas de interesse, por exemplo, desenvolvimento web, inteligência artificial, ciência de dados, etc.]. Além disso, sou um entusiasta do código aberto e amo colaborar em projetos que tornam o mundo digital um lugar melhor.
+## Sobre Nós
+Somos apaixonados por tecnologia e estamos sempre em busca de aprender algo novo. Nosso foco principal está em desenvolvimento web, inteligência artificial, ciência de dados e IoT.
 
 ## Tecnologias Favoritas
-- Linguagens de Programação: [Liste suas linguagens favoritas, por exemplo, Python, JavaScript, Ruby, etc.]
-- Frameworks: [Liste seus frameworks favoritos, por exemplo, React, Angular, Flask, Ruby on Rails, etc.]
-- Ferramentas: [Liste suas ferramentas favoritas, por exemplo, VS Code, Git, Docker, etc.]
-
-## Projetos Destacados
-- [Nome do Projeto](link): Uma breve descrição do projeto e seu objetivo.
-- [Nome do Projeto](link): Uma breve descrição do projeto e seu objetivo.
-- [Nome do Projeto](link): Uma breve descrição do projeto e seu objetivo.
+- Linguagens de Programação: Python, R, Javascript, C++
+- Frameworks: Django e Flask
+- Ferramentas: VS Code, Git e R Studio
 
 ## Contato
-- [LinkedIn](seu_linkedin)
-- [Twitter](seu_twitter)
-- [Email](seu_email)
+- [Email 1](gabriel.sanches@sp.senai.br)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IST501&show_icons=true)
 
 ## Contribuições
 ![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)
