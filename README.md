@@ -9,23 +9,16 @@ Somos apaixonados por tecnologia e estamos sempre em busca de aprender algo novo
 - Ferramentas: VS Code, Git e R Studio
 
 ## Contato
-- [Email 1](gabriel.sanches@sp.senai.br)
+- 1F4E7 gabriel.sanches@sp.senai.br
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IST501&show_icons=true)
 
 ## Contribuições
-![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)
+![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=IST501&layout=compact)
 
-## Como Contribuir
-Se você deseja contribuir para algum dos meus projetos, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests. Estou sempre aberto a colaborações e feedback.
+
 
 ## Agradecimentos
-Agradeço por visitar meu perfil do GitHub. Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou sugestão.
+Agradeço por visitar nosso perfil do GitHub. Fique à vontade para explorar nossos repositórios públicos e entrar em contato com um de nós se tiver alguma pergunta ou sugestão.
 
-
-
-<!---
-IST501/IST501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
